@@ -1,2 +1,3 @@
 # userscripts
-Userscripts repository. Useful extensions for the discerned web user.
+Userscripts repository.
+Not maintained right now.
